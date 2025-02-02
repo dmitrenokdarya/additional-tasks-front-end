@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/additional-tasks-front-end/static/css/main.bebcc666.css",
+    "main.js": "/additional-tasks-front-end/static/js/main.62adb0cc.js",
+    "index.html": "/additional-tasks-front-end/index.html",
+    "main.bebcc666.css.map": "/additional-tasks-front-end/static/css/main.bebcc666.css.map",
+    "main.62adb0cc.js.map": "/additional-tasks-front-end/static/js/main.62adb0cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bebcc666.css",
+    "static/js/main.62adb0cc.js"
+  ]
+}
