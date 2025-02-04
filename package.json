@@ -2,7 +2,7 @@
   "name": "pre-homeworks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dmitrenokdarya.github.io/1-sprint-hw",
+  "homepage": "https://dmitrenokdarya.github.io/additional-tasks-front-end",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",

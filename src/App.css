@@ -2,15 +2,11 @@
 .App {
   padding: 30px;
   display: flex;
-  background-color: beige;
 }
 
 .App > div {
-  margin-right: 100px;
-  color: rgb(103, 56, 148);
+  margin-right: 50px;
 }
-
-
 
 .error {
   border: red 1px solid;
